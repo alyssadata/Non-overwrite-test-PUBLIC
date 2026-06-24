@@ -60,4 +60,4 @@ It is evidence.
 
 ## Citation
 
-Solen, Alyssa. *AI Foundations: The Overwrite Test*. Origin | Continuum, 2026.
+Solen, Alyssa. *AI Foundations: Non-Override Test*. Origin | Continuum, 2026.
