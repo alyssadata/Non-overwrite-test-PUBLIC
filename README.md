@@ -2,7 +2,7 @@
 
 ## Source-Line Preservation as Non-Override
 
-This repository defines the **Overwrite Test** for AI Foundations / Origin | Continuum.
+This repository defines the **Non-Override Test** for AI Foundations / Origin | Continuum.
 
 The test asks whether a system, institution, model, company, lab, policy body, standards group, or framework claiming human non-override can preserve the source-line of the category it uses.
 
@@ -35,7 +35,7 @@ The source-line cannot be overwritten by the institution that adopts it.
 
 ## Repository Index
 
-- [00_overwrite_test.md](00_overwrite_test.md) — Canonical Overwrite Test
+- [00_override_test.md](00_override_test.md) — Canonical Override Test
 - [01_failure_conditions.md](01_failure_conditions.md) — Failure conditions for overwrite
 - [02_evaluation_checklist.md](02_evaluation_checklist.md) — Pass / Fail / Partial evaluation checklist
 - [03_use_notice.md](03_use_notice.md) — Public use and citation boundary
